@@ -11,7 +11,8 @@ Input:N = 7789
 Output: 4
 Explanation: The number 7789 has 4 digits.  
 */
-#include <bits/stdc++.h>
+#include <iostream>
+#include <cmath>
 using namespace std;
 
 
